@@ -23,9 +23,9 @@ public class Main {
         int number1 = Character.getNumericValue(firstZnachenie);
         char secondZnachenie=myArray[2];
         int number2 =Character.getNumericValue(secondZnachenie);
-        if (slojenie>0){
+        if (slojenie>0) {
 
-            System.out.println(Operations.Slojenie(number1,number2));
+            System.out.println(Operations.Slojenie(number1, number2));
 
         }
         if (vichitanie>0){
