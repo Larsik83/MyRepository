@@ -1,5 +1,5 @@
 public class Operations {
-     static int Slojenie(int a, int b){
+     public static int Slojenie(int a, int b){
         int result=a+b;
         return result;
     }
