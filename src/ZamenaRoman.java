@@ -28,6 +28,10 @@ public class ZamenaRoman {
         }
         return i;
     }
-    int String ZamenaArabic(in);
+    int String
+
+    ZamenaArabic() {
+
+    }
 
 }
