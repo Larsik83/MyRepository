@@ -1,15 +1,16 @@
 public class Operations {
-     public static int Slojenie(int a, int b){
+    static int Slojenie(int a, int b){
         int result=a+b;
         return result;
     }
-     static int Vichitanie (int a, int b){
+    static int Vichitanie (int a, int b){
         return a-b;
     }
-     static int Umnojenie (int a, int b){
+    static int Umnojenie (int a, int b){
         return a*b;
     }
-     static int Delenie (int a, int b){
+    static double Delenie (int a, int b){
+
         return a/b;
     }
 }
