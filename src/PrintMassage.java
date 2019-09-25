@@ -3,8 +3,9 @@ public class PrintMassage {
 
     }
 
-    public static void PrintWarning(){
+    public static void PrintWarning() {
         System.out.println("Введите корректные данные!!!");
+
     }
 
 
